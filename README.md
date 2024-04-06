@@ -28,7 +28,7 @@ The Sakila Dataset forms the foundation of our analysis, containing a diverse ar
 
 ---
 
-### Visuals
+### Visuals/Snapshots
 
 Explore a glimpse of our Power BI dashboard through the following snapshots showcasing various analytical perspectives and insights:
 
