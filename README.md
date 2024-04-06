@@ -48,6 +48,17 @@ Explore a glimpse of our Power BI dashboard through the following snapshots show
 
 ---
 
+| Title | Description |
+| --- | --- |
+| **Film Performance Analysis** |  ![Film Performance Analysis](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/6a0bc31c-ca56-4f5d-861b-4e0cce851dee) This snapshot comprehensively analyzes film performance metrics, including rental statistics and revenue analysis. Dive into detailed insights regarding which films are the most rented and their corresponding revenue contributions, facilitating strategic decisions related to film acquisition and inventory management.|
+| **Geographic Analysis** | ![Geographic Analysis](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/391fe27b-a0fb-4afe-8475-9fe9c9babf9d)  This analysis explores rental patterns and preferences across diverse geographical locations. Gain insights into regional variations in film preferences and rental behaviors, enabling targeted marketing strategies and localized inventory management.|
+| **ER Diagram** | ![ER Diagram](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/206bb6fd-d338-4118-aceb-14d8c4c10a7f) Delve into the database structure through this visually appealing Entity-Relationship (ER) diagram. Gain a clear understanding of the relationships between different entities in the database, providing a solid foundation for further analysis and data interpretation. |
+| **Actor Analysis** | ![Actor Analysis](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/02b4464b-acfb-48a2-9f90-968d302c8fb0)  This analysis thoroughly examines actors and their influence on film performance. Explore trends related to specific actors, their filmography, and their impact on rental patterns, providing valuable insights for casting decisions and content curation.|
+| **Customer Insights** |  ![Customer Insights](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/8cb26ce9-e618-4258-9531-5fc627858e4b) Gain in-depth insights into customer behavior and preferences through this analysis. Understand customer segmentation, rental patterns, and preferences, enabling personalized marketing strategies and enhanced customer experiences.|
+| **Revenue Examination** | ![Revenue Examination](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/61648f77-c567-4223-9b9f-b3e3ef870537) Uncover revenue trends and patterns with this detailed analysis. Explore factors influencing revenue fluctuations, seasonal variations, and revenue distribution across different segments, facilitating strategic decision-making for revenue optimization.|
+| **Top Rentals** | ![Top Rentals](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/2b4c499d-cdb3-425f-b4d7-a0b38178607c)  Identify top-performing rentals and their impact on business performance. Analyze rental trends, customer preferences, and revenue contributions of top rentals, guiding inventory management strategies and content acquisition decisions.|
+
+
 ## Insights
 
 Explore the insights gained from this project in detail:
