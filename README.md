@@ -82,3 +82,10 @@ Let's connect on LinkedIn for further discussions and collaborations:
 ## Conclusion
 
 The Movie Rental Analytics project endeavors to deliver actionable insights that empower rental store owners to make informed decisions and drive business growth. We invite you to explore the repository, engage in discussions, and join hands in our journey towards data-driven excellence.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
