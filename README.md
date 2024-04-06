@@ -61,8 +61,6 @@ Explore the insights gained from this project in detail:
 
 ## Repository Actions
 
-Find the complete project repository on GitHub:
-
 [![Pull](https://img.shields.io/badge/Pull%20from%20Repository-green)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel)
 [![Clone](https://img.shields.io/badge/Clone%20Repository-blue)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel.git)
 [![Issues](https://img.shields.io/badge/Issues%20on%20Repository-red)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/issues)
