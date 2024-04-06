@@ -62,8 +62,8 @@ Explore the insights gained from this project in detail:
 
 ## Repository Actions
 
-[![Clone](https://img.shields.io/badge/Clone-Repository-blue?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel.git)
-[![Pull](https://img.shields.io/badge/Pull-From%20Repository-yellow?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/pull)
+[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel.git)
+[![Pull](https://img.shields.io/badge/Pull-From%20Repository-gold?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/pull)
 [![Push](https://img.shields.io/badge/Push-To%20Repository-brown?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/push)
 [![Issues](https://img.shields.io/badge/Create-Issues-red?style=flat-square&logo=github)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/issues)
 
