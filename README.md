@@ -1,4 +1,6 @@
-# Movie Rental Analytics
+# Movie Rental Analytics 
+### Data-Driven DVD Rental Store Optimization: SQL, Excel, and Power BI Analysis
+
 
 The Movie Rental Analytics project presents a comprehensive exploration of the Sakila Dataset, offering invaluable insights into the DVD rental store domain. Through data analysis and visualization, we delve into customer behavior, film inventory dynamics, staff productivity, and revenue patterns. This initiative aims to provide actionable insights for strategic decision-making and operational optimization, empowering rental store owners to drive success in their businesses. With a focus on maximizing customer satisfaction and operational efficiency, our analyses pave the way for informed business strategies and enhanced profitability.
 
@@ -7,6 +9,8 @@ The Movie Rental Analytics project presents a comprehensive exploration of the S
 - SQL
 - Power BI
 - Problem Solving
+
+
 
 ---
 
