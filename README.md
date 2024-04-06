@@ -1,6 +1,9 @@
 # Movie Rental Analytics 
 ### Data-Driven DVD Rental Store Optimization: SQL, Excel, and Power BI Analysis
 
+![Screenshot 2024-04-06 105628](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/197a62db-014b-48b9-928e-855798d155c2)
+
+
 
 The Movie Rental Analytics project presents a comprehensive exploration of the Sakila Dataset, offering invaluable insights into the DVD rental store domain. Through data analysis and visualization, we delve into customer behavior, film inventory dynamics, staff productivity, and revenue patterns. This initiative aims to provide actionable insights for strategic decision-making and operational optimization, empowering rental store owners to drive success in their businesses. With a focus on maximizing customer satisfaction and operational efficiency, our analyses pave the way for informed business strategies and enhanced profitability.
 
@@ -35,11 +38,11 @@ Explore a glimpse of our Power BI dashboard through the following snapshots show
 
 | Title | Description |
 | --- | --- |
-| **Customer Insights** | In-depth analysis shedding light on customer behavior and preferences. ![Customer Insights](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/8cb26ce9-e618-4258-9531-5fc627858e4b) |
+| **Film Performance Analysis** |  Thorough examination of film performance metrics, encompassing rental statistics and revenue analysis. ![Film Performance Analysis](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/6a0bc31c-ca56-4f5d-861b-4e0cce851dee) |
 | **Geographic Analysis** | Examination of rental patterns and preferences across diverse geographical locations. ![Geographic Analysis](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/391fe27b-a0fb-4afe-8475-9fe9c9babf9d) |
 | **ER Diagram** | A visually appealing representation of the database structure, showcasing entity relationships. ![ER Diagram](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/206bb6fd-d338-4118-aceb-14d8c4c10a7f) |
 | **Actor Analysis** | Detailed analysis focusing on actors and their influence on film performance. ![Actor Analysis](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/02b4464b-acfb-48a2-9f90-968d302c8fb0) |
-| **Film Performance Analysis** | Thorough examination of film performance metrics, encompassing rental statistics and revenue analysis. ![Film Performance Analysis](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/6a0bc31c-ca56-4f5d-861b-4e0cce851dee) |
+| **Customer Insights** |In-depth analysis shedding light on customer behavior and preferences. ![Customer Insights](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/8cb26ce9-e618-4258-9531-5fc627858e4b) |
 | **Revenue Examination** | In-depth analysis of revenue trends and patterns, facilitating strategic business decisions. ![Revenue Examination](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/61648f77-c567-4223-9b9f-b3e3ef870537) |
 | **Top Rentals** | Identification of top-performing rentals, instrumental in optimizing inventory management strategies. ![Top Rentals](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/2b4c499d-cdb3-425f-b4d7-a0b38178607c) |
 
