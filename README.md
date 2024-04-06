@@ -42,8 +42,9 @@ Explore a glimpse of our Power BI dashboard through the following snapshots show
 | **Revenue Examination** | ![Revenue Examination](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/61648f77-c567-4223-9b9f-b3e3ef870537) *Uncover revenue trends and patterns with this detailed analysis. Explore factors influencing revenue fluctuations, seasonal variations, and revenue distribution across different segments, facilitating strategic decision-making for revenue optimization.*|
 | **Top Rentals** | ![Top Rentals](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/assets/143819712/2b4c499d-cdb3-425f-b4d7-a0b38178607c)  *Identify top-performing rentals and their impact on business performance. Analyze rental trends, customer preferences, and revenue contributions of top rentals, guiding inventory management strategies and content acquisition decisions.*|
 
+---
 
-## Insights
+## Key Insights
 
 Explore the insights gained from this project in detail:
 
